@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400&family=Open+Sans&family=Roboto:wght@300;400;500&display=swap');
+body{
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'Roboto','Open Sans','Noto Sans TC', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.mb48{
+    margin-bottom: 72px;
+}
+img{
+    vertical-align:middle
+}
+
+
+h1{
+    font-size: 80px;
+    line-height: 106px;
+    border-bottom: 2px solid #000;
+}
+h2{
+    font-size: 32px;
+    line-height: 43px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+}
+.enTitle{
+    color: #A00404;
+    font-size: 24px;
+    margin-left: 16px;
+    font-weight: 500;
+}
+h3{
+    font-size: 24px;  
+}
+.photo{
+    margin: 48px 0;
+}
+p{
+    margin-bottom: 24px;
+}
+li{
+    margin-bottom: 24px;
+}
+.bgBox{
+    background: #415165;
+    padding-top: 24px;
+    padding-bottom: 36px;
+}
+.bgBox h2{
+    color: white;
+    line-height: 45px;
+    text-align: center;
+    padding-bottom: 8px;
+    width: 996px;
+    margin: 0 auto;
+    border-bottom: 1px solid white;
+    margin-bottom: 40px;
+}
+.bgBox .enTitle{
+    color: white;
+}
+.skills ul{
+    margin: 0 auto;
+    width: 216px;
+    border-left: 1px solid #96A9C4;
+}
+.skills li{
+    margin-left: 24px;
+    margin-bottom: 16px;
+    color: white;
+    font-weight: 300;
+    align-items: center;
+}
+.workEx ul{
+    margin-left: 24px;
+    border-left: 1px solid #96A9C4;
+}
+.workEx li{
+    margin-left: 24px;
+}
+.workEx img{
+    margin: 8px 0;
+}
+.workEx p{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.contact li{
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+.contact a{
+    text-decoration:none;
+    color: white;
+    padding: 0 12px;
+}
